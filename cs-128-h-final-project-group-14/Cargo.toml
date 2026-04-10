@@ -1,0 +1,6 @@
+[package]
+name = "cs-128-h-final-project-group-14"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
